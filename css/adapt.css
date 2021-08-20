@@ -1,0 +1,117 @@
+
+
+
+
+@media screen  and (max-width: 1399px) {
+    .wrapper {
+        max-width: 1400px;
+
+    }
+    .container {
+        max-width: 1400px;
+    }
+    .compitition__bg {
+        width: 1200px;
+    }
+    .copitition__flex {
+        width: 1200px;
+    }
+    .border__menu-1 {
+        width: 1400px;
+    }
+    .border__menu-2 {
+        width: 1400px;
+    }
+    .border__menu-3 {
+        width: 1400px;
+    }
+    .own__flex {
+       justify-content: space-around;
+    }
+    .money {
+        right: 20%;
+    }
+    .clip-bg {
+        width: 877px;
+    }
+    .build-flex {
+        margin-left: 53px;
+    }
+    .outcome__content {
+        width: 60%;
+        position: relative;
+    }
+    .why__flex {
+        width: 1400px;
+    }
+    .buy-flex {
+        width: 1400px;
+    }
+    .left {
+        width: 600px;
+        font-size: 18px;
+    }
+    .quatons__content-text {
+        margin-left: 20px;
+    }
+    .plus {
+        right: 50px;
+    }
+    .warrenty__content-border {
+        left: 62%;
+        height: 389px;
+    }
+    .text-list:last-child::before{
+        top: 37%;
+    }
+    .filling__flex {
+        width: 1400px;
+    }
+    .big-input {
+        padding-right: 465px;
+    }
+    .filling-input-small {
+        padding-right: 114px;
+        margin-right: 24px;
+    }
+    .filling-input-flex {
+        justify-content: flex-start;
+        
+    }
+    .filling-btn {
+        padding: 21px 80px;
+    }
+    .filling-img {
+      display: none;
+    }
+    .filling__photo {
+        position: relative;
+        background: url(../img/filling/Rectangle\ 65.png) no-repeat right;
+        background-size:cover;
+        width: 100%;
+    }
+    .footer__bg-input {
+        padding-right: 457px;
+        padding-top: 19px;
+    }
+    #footer__bg-area {
+        padding-right: 435px;
+        padding-top: 19px;
+        margin-bottom: 10px;
+    }
+    .footer__small-input {
+        padding-right: 120px;
+    }
+    .footer-btn {
+        margin-left: 20px;
+    }
+    .footer__form {
+        margin-right: 20px;
+    }
+    html,body {
+        width: 1400px;
+    }
+    header {
+        width: 1400px;
+    }
+}
